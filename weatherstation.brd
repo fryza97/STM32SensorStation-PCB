@@ -79,7 +79,7 @@
 <wire x1="83" y1="82" x2="0" y2="82" width="0" layer="20"/>
 <wire x1="0" y1="82" x2="0" y2="0" width="0" layer="20"/>
 <text x="6.35" y="45.72" size="1.778" layer="21" rot="R90">Damian Fryza</text>
-<text x="3.81" y="45.72" size="1.778" layer="21" rot="R90">WeatherStation rev. 2.4</text>
+<text x="3.81" y="45.72" size="1.778" layer="21" rot="R90">WeatherStation rev. 1.0</text>
 <text x="76.2" y="24.13" size="1.524" layer="25" rot="R90">VDD</text>
 <text x="76.2" y="18.3642" size="1.524" layer="25" rot="R90">PA6</text>
 <text x="76.2" y="12.7" size="1.524" layer="25" rot="R90">GND</text>

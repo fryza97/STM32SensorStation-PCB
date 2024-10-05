@@ -24254,7 +24254,7 @@ super fast rectifier, 2 A</description>
 <text x="149.86" y="256.54" size="2.54" layer="94">MCU</text>
 <text x="152.4" y="121.92" size="2.54" layer="94">Buttons</text>
 <text x="72.136" y="39.116" size="1.6764" layer="94">ammeter con</text>
-<text x="314.706" y="5.08" size="2.54" layer="94">2.4</text>
+<text x="314.706" y="5.08" size="2.54" layer="94">1.0</text>
 <text x="149.86" y="185.42" size="2.54" layer="94">Connectors</text>
 <text x="5.08" y="116.84" size="2.54" layer="94">Power Indicator</text>
 <text x="58.42" y="119.38" size="2.54" layer="94" rot="R180">Voltage divider</text>
@@ -24278,7 +24278,7 @@ selector</text>
 <wire x1="146.05" y1="46.736" x2="322.58" y2="46.736" width="0.1524" layer="94"/>
 <wire x1="146.05" y1="127.254" x2="322.58" y2="127.254" width="0.1524" layer="94"/>
 <wire x1="146.05" y1="190.5" x2="322.58" y2="190.5" width="0.1524" layer="94"/>
-<text x="119.126" y="5.08" size="2.54" layer="94">2.4</text>
+<text x="119.126" y="5.08" size="2.54" layer="94">1.0</text>
 <text x="283.464" y="10.16" size="2.54" layer="94">29.09.2024</text>
 <text x="87.63" y="10.16" size="2.54" layer="94">29.09.2024</text>
 </plain>
