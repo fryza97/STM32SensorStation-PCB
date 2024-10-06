@@ -1,4 +1,4 @@
-# STM32SensorStation---PCB
+# STM32SensorStation-PCB
 
 PCB to STM32SensorStation (https://github.com/fryza97/STM32SensorStation) project with STM32L010F4P6.
 
