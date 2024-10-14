@@ -105,6 +105,20 @@
 <wire x1="78.6638" y1="24.9682" x2="77.47" y2="24.9682" width="0.2032" layer="21"/>
 <wire x1="77.47" y1="26.2382" x2="76.5048" y2="26.2382" width="0.2032" layer="21"/>
 <text x="29.2354" y="20.7518" size="0.8128" layer="21">5V</text>
+<text x="60.579" y="0.2794" size="1.4224" layer="21" rot="R90">PA4</text>
+<text x="62.992" y="0.1778" size="1.4224" layer="21" rot="R90">PA10</text>
+<text x="65.4558" y="0.1778" size="1.4224" layer="21" rot="R90">GND</text>
+<text x="68.0974" y="0.2286" size="1.4224" layer="21" rot="R90">GND</text>
+<text x="57.912" y="0.3556" size="1.4224" layer="21" rot="R90">GND</text>
+<text x="55.2958" y="0.4318" size="1.4224" layer="21" rot="R90">VDD</text>
+<text x="8.8646" y="68.6054" size="1.4224" layer="21">PA9</text>
+<text x="8.8646" y="66.0654" size="1.4224" layer="21">PB1</text>
+<text x="8.8646" y="63.5254" size="1.4224" layer="21">PA3</text>
+<text x="8.8646" y="60.9854" size="1.4224" layer="21">PA5</text>
+<text x="8.8646" y="58.4454" size="1.4224" layer="21">PA7</text>
+<text x="8.8646" y="55.9054" size="1.4224" layer="21">GND</text>
+<text x="8.8646" y="53.3654" size="1.4224" layer="21">VDD</text>
+<text x="8.8646" y="71.1454" size="1.4224" layer="21">PA0</text>
 </plain>
 <libraries>
 <library name="testpad" urn="urn:adsk.eagle:library:385">
@@ -2424,7 +2438,7 @@ design rules under a new name.
 <attribute name="SPICEPREFIX" value="R" x="88.0618" y="69.8246" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="CON6" library="WeatherStation" package="BME680" value="BME680" x="60.96" y="6.35" smashed="yes">
-<attribute name="VALUE" x="53.34" y="3.175" size="1.27" layer="21"/>
+<attribute name="VALUE" x="64.4398" y="18.3896" size="1.27" layer="21" rot="R180"/>
 </element>
 <element name="CON3" library="WeatherStation" package="LCD" value="LCD-TFT" x="15.3162" y="62.865" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="18.9038" y="79.136" size="1.27" layer="28" ratio="10" rot="MR180"/>
