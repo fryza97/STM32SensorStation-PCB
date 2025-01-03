@@ -1,6 +1,6 @@
 # STM32SensorStation-PCB
 
-PCB to STM32SensorStation (https://github.com/fryza97/STM32SensorStation) project with STM32L010F4P6.
+PCB to STM32SensorStation (https://github.com/fryza97/STM32SensorStation) project with STM32L010F4P6. The PCB has been designed for prototyping a weather station and as a devboard for other projects.
 
 ![image](https://github.com/user-attachments/assets/031752e9-88bf-4aaf-b6bc-11d49bea1823)
 Image 1: Board project
